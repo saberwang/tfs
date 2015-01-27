@@ -1,0 +1,4 @@
+# comment - this is ignored file list
+.idea/*
+public/*
+
